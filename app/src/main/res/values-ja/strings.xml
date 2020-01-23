@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ジャストジャバ</string>
+    <string name="chocolate">チョコレート</string>
+    <string name="editText_name">名前</string>
+    <string name="order">注文</string>
+    <string name="quantity">量</string>
+    <string name="thank_you">ありがとうございました ！！！</string>
+    <string name="toppings">トッピング</string>
+    <string name="whipped_cream">ホイップクリーム</string>
+
+    <string name="order_summary_name">名前: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">ホイップクリームを追加しますか？: <xliff:g id="true" example="Whipped Cream">%b</xliff:g></string>
+    <string name="order_summary_chocolate">チョコレートを追加しますか？： <xliff:g id="chocolate" example="false">%b</xliff:g></string>
+    <string name="order_summary_quantity">量: <xliff:g id="quantity" example="Quantity">%s</xliff:g></string>
+    <string name="order_summary_price">合計：$ <xliff:g id="total" example="Total: $45">%s</xliff:g></string>
+</resources>

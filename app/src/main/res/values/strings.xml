@@ -1,0 +1,30 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+
+    <!--Hint for the EditText -->
+    <string name="editText_name">Name</string>
+
+    <!--Header text for the list of toppings [CHAR LIMIT=20]-->
+    <string name="toppings">TOPPINGS</string>
+
+    <!-- Values of the checkbox -->
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+
+    <!--Header text for the Quantity [CHAR LIMIT=20]-->
+    <string name="quantity">QUANTITY</string>
+
+    <!--Text for the button order -->
+    <string name="order">Order</string>
+
+    <!--Display the order summary info-->
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">Add whipped cream?: <xliff:g id="true" example="false">%b</xliff:g></string>
+    <string name="order_summary_chocolate">Add chocolate?: <xliff:g id="chocolate" example="false">%b</xliff:g></string>
+    <string name="order_summary_quantity">Quantity: <xliff:g id="quantity" example="Quantity">%s</xliff:g></string>
+    <string name="order_summary_price">Total: $ <xliff:g id="total" example="Total: $45">%s</xliff:g></string>
+    <string name="thank_you">Thank you !!!</string>
+
+
+
+</resources>
